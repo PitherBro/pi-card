@@ -116,7 +116,7 @@ Since this one varies based on how large the conversation / response is, just pu
 | Model  |  Prompt | Eval | ~ Time to Respond |
 |--------|---------|------|-------------------|
 | Phi 3 Instruct (3B) | 4.65 tok/s | 3.8 tok/s | 3.5s |
-| Llama 3 Instruct (8B) | 2.37s | 2.00s |  5.0s |
+| Llama 3 Instruct (8B) | 2.37 tok/s | 2.00 tok/s |  5.0s |
 
 
 ### Vision Language Model
