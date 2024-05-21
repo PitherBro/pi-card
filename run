@@ -1,0 +1,6 @@
+#!/bin/bash
+#grab 2 .ccp files from repos in readme.md
+#setup venv and install pip depends
+#get api key?
+
+source venv/bin/activate
